@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Alexdevops0129/Space-game-web-Pipeline/_apis/build/status/nsnqhq.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Alexdevops0129/Space-game-web-Pipeline/_build/latest?definitionId=25&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
