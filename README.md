@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/Alexdevops0129/Space-game-web-Pipeline/_apis/build/status/nsnqhq.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Alexdevops0129/Space-game-web-Pipeline/_build/latest?definitionId=25&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-13372&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-13372)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-13372&metric=bugs)](https://sonarcloud.io/dashboard?id=space-game-web-13372)
 
 # Contributing
 
