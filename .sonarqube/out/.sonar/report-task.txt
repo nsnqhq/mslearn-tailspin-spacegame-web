@@ -1,0 +1,7 @@
+organization=nsnqhq
+projectKey=space-game-web-13372
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.1720
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-13372
+ceTaskId=AW3yjW_xDYQxY5D6DstD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW3yjW_xDYQxY5D6DstD
